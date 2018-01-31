@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\work\qb\android\android-phase-play-static\app\libs\jtransforms-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e52124b670340d47844a734e36765c3bc11b7f3">
+        <dex dex="E:\work\qb\android\android-phase-play-static\app\build\intermediates\pre-dexed\debug\jtransforms-2.4_0e4e1cb69b375d93ef6a0b1836c04cc2c5a3d7f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\work\qb\android\android-phase-play-static\app\libs\JTransforms.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79477aec6929cd64cd863d6ac59c2445d00239a3">
+        <dex dex="E:\work\qb\android\android-phase-play-static\app\build\intermediates\pre-dexed\debug\JTransforms_a1a479fa416343c1530697774dbb744cb11d62b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\work\qb\android\android-ultrasound-gesture-master\app\libs\JTransforms.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79477aec6929cd64cd863d6ac59c2445d00239a3">
+        <dex dex="E:\work\qb\android\android-ultrasound-gesture-master\app\build\intermediates\pre-dexed\debug\JTransforms_b38899cb505ca203f529dd938ddfac172d69d0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\work\qb\android\android-ultrasound-gesture-master\app\libs\jtransforms-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e52124b670340d47844a734e36765c3bc11b7f3">
+        <dex dex="E:\work\qb\android\android-ultrasound-gesture-master\app\build\intermediates\pre-dexed\debug\jtransforms-2.4_487f194a1d4bd0801210153f093497c227d3bed9.jar" />
+    </item>
+
+</items>
